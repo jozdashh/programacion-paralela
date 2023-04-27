@@ -1,5 +1,5 @@
 # programacion-paralela
-Repositorio del curso Programación Paralela Javeriana Cali 2020-1
+Repositorio del curso Programación Paralela 2020-1
 
 ### cuda
 Algoritmo paralelo de multiplicación de matrices en PyCuda
